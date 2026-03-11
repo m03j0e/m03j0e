@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My real name is Joe and I'm just working on a few projects.
 <!--
 **m03j0e/m03j0e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
